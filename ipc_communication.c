@@ -5,7 +5,7 @@
 #include <sys/ipc.h>
 #include <sys/shm.h>
 
-#define SHM_SIZE 1024 // Size of shared memory
+#define SHM_SIZE 1024 
 
 int writeMem();
 int readMem();
